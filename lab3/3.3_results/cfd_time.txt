@@ -1,0 +1,30 @@
+make -C 3.3 cfd
+make[1]: Entering directory '/home/mlkukic/Projects/parpro/lab3/3.3'
+nvcc -ccbin g++-15 -std=c++17 -O2 -I/home/mlkukic/Projects/parpro/lab3/3.3/include arraymalloc.cpp boundary.cpp cfd.cu cfdio.cpp jacobi.cu -o cfd -lstdc++
+make[1]: Leaving directory '/home/mlkukic/Projects/parpro/lab3/3.3'
+./3.3/cfd 64 1000
+Scale Factor = 64, iterations = 1000
+Irrotational flow
+Running CFD on 2048 x 2048 grid in serial
+
+Starting main loop...
+
+Completed iteration 1000
+
+... calculation done
+After 1000 iterations, the error is 0.00125534
+Time for 1000 iterations was 10.1846 seconds
+Each iteration took 0.0101846 seconds
+... finished serial part
+
+------------------------
+
+Completed iteration 1000
+
+... calculation done GPU
+After 1000 iterations, the error is 0.00125534
+Time for 1000 iterations was 0.219391 seconds
+Each iteration took 0.000219391 seconds
+Error cpu and gpu match!
+SPEEDUP (CPU time / GPU time): 46.42x
+... finished GPU

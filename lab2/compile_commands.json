@@ -1,0 +1,30 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I/usr/lib64/mpi/gcc/openmpi5/include",
+      "-I/usr/lib64/mpi/gcc/openmpi5/include",
+      "-o",
+      "lab2",
+      "main_par.cpp"
+    ],
+    "directory": "/home/matijak/Documents/skola/parpro/labosi/lab2",
+    "file": "/home/matijak/Documents/skola/parpro/labosi/lab2/main_par.cpp",
+    "output": "/home/matijak/Documents/skola/parpro/labosi/lab2/lab2"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I/usr/lib64/mpi/gcc/openmpi5/include",
+      "-I/usr/lib64/mpi/gcc/openmpi5/include",
+      "-o",
+      "lab2",
+      "board.cpp"
+    ],
+    "directory": "/home/matijak/Documents/skola/parpro/labosi/lab2",
+    "file": "/home/matijak/Documents/skola/parpro/labosi/lab2/board.cpp",
+    "output": "/home/matijak/Documents/skola/parpro/labosi/lab2/lab2"
+  }
+]

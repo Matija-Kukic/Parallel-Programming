@@ -1,0 +1,11 @@
+True
+[Dobiveni PI]: 3.1415927
+[Vrijeme izvodjenja]: 721.3989470 ms
+[Dobiveni PI]: 3.1415927
+[Vrijeme izvodjenja]: 573.4215130 ms
+[Dobiveni PI]: 3.1415927
+[Vrijeme izvodjenja]: 617.0683700 ms
+[Dobiveni PI]: 3.1415927
+[Vrijeme izvodjenja]: 616.5216940 ms
+[Dobiveni PI]: 3.1415927
+[Vrijeme izvodjenja]: 616.4730530 ms

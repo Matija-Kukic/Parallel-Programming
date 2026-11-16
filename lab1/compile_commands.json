@@ -1,0 +1,16 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-I/usr/lib64/mpi/gcc/openmpi5/include",
+      "-I/usr/lib64/mpi/gcc/openmpi5/include",
+      "-o",
+      "lab1",
+      "lab1.cpp"
+    ],
+    "directory": "/home/matijak/Documents/skola/parpro/labosi/lab1",
+    "file": "/home/matijak/Documents/skola/parpro/labosi/lab1/lab1.cpp",
+    "output": "/home/matijak/Documents/skola/parpro/labosi/lab1/lab1"
+  }
+]

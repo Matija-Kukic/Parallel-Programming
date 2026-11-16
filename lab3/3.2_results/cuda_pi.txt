@@ -1,0 +1,42 @@
+make -C 3.2 pi_sum
+make[1]: Entering directory '/home/mlkukic/Projects/parpro/lab3/3.2'
+nvcc -ccbin g++-15 -std=c++17 -O2 pi_sum.cu -o pi_sum -lstdc++
+make[1]: Leaving directory '/home/mlkukic/Projects/parpro/lab3/3.2'
+./3.2/pi_sum
+Unesena duljina reda N = 2^28 = 536870912
+
+--------------------------
+
+Izvodjenje 1
+[Dobiveni PI]: 3.141593
+[Vrijeme izvodjenja]: 341.120000 ms
+--------------------------
+
+--------------------------
+
+Izvodjenje 2
+[Dobiveni PI]: 3.141593
+[Vrijeme izvodjenja]: 97.129000 ms
+--------------------------
+
+--------------------------
+
+Izvodjenje 3
+[Dobiveni PI]: 3.141593
+[Vrijeme izvodjenja]: 91.037000 ms
+--------------------------
+
+--------------------------
+
+Izvodjenje 4
+[Dobiveni PI]: 3.141593
+[Vrijeme izvodjenja]: 91.532000 ms
+--------------------------
+
+--------------------------
+
+Izvodjenje 5
+[Dobiveni PI]: 3.141593
+[Vrijeme izvodjenja]: 91.549000 ms
+--------------------------
+

@@ -1,0 +1,25 @@
+CUDA status: True
+Velicina bloka: 1024 
+    [Dobiveni PI]: 3.1415927 | [Vrijeme]: 251.70 ms
+    [Dobiveni PI]: 3.1415927 | [Vrijeme]: 257.40 ms
+    [Dobiveni PI]: 3.1415927 | [Vrijeme]: 252.04 ms
+    [Dobiveni PI]: 3.1415927 | [Vrijeme]: 262.53 ms
+    [Dobiveni PI]: 3.1415927 | [Vrijeme]: 252.84 ms
+Velicina bloka: 2048 
+    [Dobiveni PI]: 3.1415927 | [Vrijeme]: 267.67 ms
+    [Dobiveni PI]: 3.1415927 | [Vrijeme]: 256.69 ms
+    [Dobiveni PI]: 3.1415927 | [Vrijeme]: 267.46 ms
+    [Dobiveni PI]: 3.1415927 | [Vrijeme]: 255.86 ms
+    [Dobiveni PI]: 3.1415927 | [Vrijeme]: 261.63 ms
+Velicina bloka: 4096 
+    [Dobiveni PI]: 3.1415927 | [Vrijeme]: 268.12 ms
+    [Dobiveni PI]: 3.1415927 | [Vrijeme]: 268.45 ms
+    [Dobiveni PI]: 3.1415927 | [Vrijeme]: 265.07 ms
+    [Dobiveni PI]: 3.1415927 | [Vrijeme]: 270.97 ms
+    [Dobiveni PI]: 3.1415927 | [Vrijeme]: 264.69 ms
+Velicina bloka: 8192 
+    [Dobiveni PI]: 3.1415927 | [Vrijeme]: 289.51 ms
+    [Dobiveni PI]: 3.1415927 | [Vrijeme]: 286.18 ms
+    [Dobiveni PI]: 3.1415927 | [Vrijeme]: 289.18 ms
+    [Dobiveni PI]: 3.1415927 | [Vrijeme]: 286.05 ms
+    [Dobiveni PI]: 3.1415927 | [Vrijeme]: 288.79 ms
